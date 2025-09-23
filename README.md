@@ -82,4 +82,4 @@ Open the project in Visual Studio 2013
 [CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/)
 
 ## Project Report
-[Project Report: The Fallen Kingdom](https://drive.google.com/drive/u/1/my-drive)
+[Project Report: 1v1-Fight-to-Death](https://drive.google.com/file/d/148RjlKGti3_d7md8wlyL_UDtvas3Fnrv/view?usp=sharing)
