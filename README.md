@@ -79,7 +79,7 @@ Open the project in Visual Studio 2013
 <img src="https://github.com/user-attachments/assets/ff68652e-db8d-4717-9546-87edb1c64546" width="200" height="200">
 
 ## Youtube Link
-[CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/)
+[CSE 1200 Project: The Fallen Kingdom]([https://www.youtube.com/](https://www.youtube.com/watch?v=Nelv2K7zG5k))
 
 ## Project Report
 [Project Report: 1v1-Fight-to-Death](https://drive.google.com/file/d/148RjlKGti3_d7md8wlyL_UDtvas3Fnrv/view?usp=sharing)
